@@ -1,0 +1,17 @@
+{
+	"type": "flyingUnit",
+	"name": "Leafblower Wraith",
+	"description": "Generally annoying and innacurate.",
+	"speed": 0.5,
+	"flying": true,
+	"health": 90,
+	"engineOffset": 5.5,
+	"range": 160,
+	"weapon": {
+		"name": "leaf-blaster",
+		"length": 1.5,
+		"reload": 0.1,
+		"alternate": true,
+		"bullet": "bullet"
+	}
+}
