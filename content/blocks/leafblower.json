@@ -1,0 +1,29 @@
+{
+	"type": "DoubleTurret",
+	"name": "Leafblower",
+	"description": "Sprays useless copper bullets everywhere. What a mess.",
+	"health": 400,
+	"size": 2,
+	"reload": 0.1,
+	"range": 100,
+	"ammoUseEffect": "shellEjectSmall",
+	"inaccuracy": 70,
+	"rotatespeed": 8,
+	"ammo": {
+		"copper": {
+			"speed": 2.5,
+			"damage": 3,
+			"bulletWidth": 7,
+			"bulletHeight": 9,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 5
+		}
+	},
+	"requirements": [
+		{ "item": "graphite", "amount": 40 },
+		{ "item": "copper", "amount": 70 }
+	],
+	"category": "turret",
+	"research": "duo"
+}
