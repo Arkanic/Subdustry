@@ -10,7 +10,7 @@
 	"weapon": {
 		"name": "leaf-blaster",
 		"length": 1.5,
-		"reload": 1,
+		"reload": 5,
 		"alternate": true,
 		"bullet": "standardCopper"
 	}
