@@ -12,6 +12,6 @@
 		"length": 1.5,
 		"reload": 0.1,
 		"alternate": true,
-		"bullet": "bullet"
+		"bullet": "standardCopper"
 	}
 }
