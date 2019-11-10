@@ -8,5 +8,22 @@
 	"range": 10000,
 	"ammoUseEffect": "shellEjectSmall",
 	"innacuracy": 0,
-	
+	"rotatespeed": 2,
+	"ammo": {
+		"thorium": {
+			"speed": 10.0,
+			"damage": 100,
+			"bulletWidth": "2",
+			"bulletHeight": "10",
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 1
+		}
+	},
+	"requirements": [
+		{"item": "titanium", "amount": "200"},
+		{"item": "silicon", "amount": "300"}
+	],
+	"category": "turret",
+	"research": "ripple"
 }
