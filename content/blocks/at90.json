@@ -1,5 +1,5 @@
 {
-	"type": "Double",
+	"type": "DoubleTurret",
 	"name": "AT90",
 	"description": "A powerful double barrel turret capable of removing 'Problems'",
 	"health": 2000,
