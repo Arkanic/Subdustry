@@ -1,5 +1,5 @@
 {
-	"type": "SingleTurret",
+	"type": "DoubleTurret",
 	"name": "Ranger",
 	"description": "giant sniper turret. never ask.",
 	"health": 5000,
