@@ -11,6 +11,7 @@
 	"rotatespeed": 12,
 	"ammo": {
 		"thorium": {
+			"reloadMultiplier": 3,
 			"speed": 13,
 			"damage": 1000,
 			"bulletWidth": 20,
