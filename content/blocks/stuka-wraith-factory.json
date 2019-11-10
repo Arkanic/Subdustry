@@ -1,8 +1,8 @@
 {
-	"name": "Leafblower Wraith Factory",
-	"description": "Makes bullet spammer wraiths.",
+	"name": "Stuka Wraith Factory",
+	"description": "Makes dive bomber wraiths.",
 	"type": "UnitFactory",
-	"unitType": "leafblower-wraith",
+	"unitType": "stuka-wraith",
 	"size": 2,
 	"produceTime": 350,
 	"consumes": {
