@@ -17,7 +17,7 @@
 			"bulletHeight": 30,
 			"shootEffect": "shootBig",
 			"smokeEffect": "shootBigSmoke",
-			"ammoMultiplier": 0.5
+			"ammoMultiplier": 1
 		}
 	},
 	"requirements": [
