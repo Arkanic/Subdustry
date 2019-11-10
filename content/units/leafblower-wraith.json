@@ -12,6 +12,7 @@
 		"length": 1.5,
 		"reload": 5,
 		"alternate": true,
+		"innacuracy": 70,
 		"bullet": {
 			"speed": 2.5,
 			"damage": 3,
