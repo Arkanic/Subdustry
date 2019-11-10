@@ -4,17 +4,17 @@
 	"description": "giant sniper turret. never ask.",
 	"health": 5000,
 	"size": 4,
-	"reload": 20,
+	"reload": 200,
 	"range": 10000,
 	"ammoUseEffect": "shellEjectSmall",
 	"innacuracy": 0,
 	"rotatespeed": 2,
 	"ammo": {
 		"thorium": {
-			"speed": 10.0,
+			"speed": 20.0,
 			"damage": 100,
-			"bulletWidth": "2",
-			"bulletHeight": "10",
+			"bulletWidth": "5",
+			"bulletHeight": "20",
 			"shootEffect": "shootSmall",
 			"smokeEffect": "shootSmallSmoke",
 			"ammoMultiplier": 1
