@@ -12,7 +12,7 @@
 	"ammo": {
 		"thorium": {
 			"speed": 20.0,
-			"damage": 100,
+			"damage": 1000,
 			"bulletWidth": "5",
 			"bulletHeight": "20",
 			"shootEffect": "shootSmall",
