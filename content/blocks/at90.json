@@ -5,7 +5,7 @@
 	"health": 2000,
 	"size": 4,
 	"reload": 5,
-	"range": 3000,
+	"range": 2000,
 	"ammoUseEffect": "shellEjectBig",
 	"inaccuracy": 10,
 	"rotatespeed": 12,
