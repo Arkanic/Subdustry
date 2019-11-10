@@ -1,0 +1,12 @@
+{
+	"type": "SingleTurret",
+	"name": "Ranger",
+	"description": "giant sniper turret. never ask.",
+	"health": 5000,
+	"size": 4,
+	"reload": 20,
+	"range": 10000,
+	"ammoUseEffect": "shellEjectSmall",
+	"innacuracy": 0,
+	
+}
