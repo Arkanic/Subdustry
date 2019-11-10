@@ -12,6 +12,14 @@
 		"length": 1.5,
 		"reload": 5,
 		"alternate": true,
-		"bullet": "standardCopper"
+		"bullet": {
+			"speed": 2.5,
+			"damage": 3,
+			"bulletWidth": 7,
+			"bulletHight": 9,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 5
+		}
 	}
 }
