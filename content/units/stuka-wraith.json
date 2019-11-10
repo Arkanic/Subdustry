@@ -1,6 +1,6 @@
 {
 	"type": "flyingUnit",
-	"name": "Leafblower Wraith",
+	"name": "Stuka Wraith",
 	"description": "Generally annoying and innacurate.",
 	"speed": 0.25,
 	"flying": true,
@@ -8,7 +8,7 @@
 	"engineOffset": 5.5,
 	"range": 160,
 	"weapon": {
-		"name": "leaf-blaster",
+		"name": "dive-blaster",
 		"length": 1.5,
 		"reload": 5,
 		"alternate": true,
