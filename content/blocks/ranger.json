@@ -11,10 +11,10 @@
 	"rotatespeed": 2,
 	"ammo": {
 		"thorium": {
-			"speed": 20.0,
+			"speed": 30.0,
 			"damage": 1000,
-			"bulletWidth": "5",
-			"bulletHeight": "20",
+			"bulletWidth": 10,
+			"bulletHeight": 40,
 			"shootEffect": "shootSmall",
 			"smokeEffect": "shootSmallSmoke",
 			"ammoMultiplier": 1
