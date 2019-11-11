@@ -1,0 +1,26 @@
+{
+	"type": "groundUnit",
+	"name": "Dave",
+	"description": "The Ultimate solution to all your military needs!",
+	"speed": 0.25,
+	"flying": false,
+	"health": 5,
+	"engineOffset": 0,
+	"range": 150,
+	"weapon": {
+		"name": "pistol",
+		"length": 1.5,
+		"reload": 500000,
+		"alternate": true,
+		"innacuracy": 0,
+		"bullet": {
+			"speed": 2.5,
+			"damage": 10000,
+			"bulletWidth": 2,
+			"bulletHight": 5,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 1
+		}
+	}
+}
