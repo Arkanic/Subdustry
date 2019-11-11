@@ -6,7 +6,7 @@
 	"size": 2,
 	"produceTime": 100,
 	"consumes": {
-		"power": 1,
+		"power": 0.5,
 		"items": {
 			"items": [
 				{"item": "copper", "amount": 5},
