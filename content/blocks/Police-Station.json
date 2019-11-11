@@ -1,5 +1,5 @@
 {
-	"name": "Police-Station",
+	"name": "police-station",
 	"description": "A friendly police station, this is where daves materialize",
 	"type": "UnitFactory",
 	"unitType": "dave",
