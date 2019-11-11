@@ -4,7 +4,7 @@
 	"description": "A powerful double barrel turret capable of removing 'Problems'",
 	"health": 2000,
 	"size": 4,
-	"reload": 20,
+	"reload": 10,
 	"range": 500,
 	"ammoUseEffect": "shellEjectBig",
 	"inaccuracy": 2,
