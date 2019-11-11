@@ -15,7 +15,7 @@
 		"innacuracy": 0,
 		"bullet": {
 			"speed": 2.5,
-			"damage": 10000,
+			"damage": 1000,
 			"bulletWidth": 2,
 			"bulletHight": 5,
 			"shootEffect": "shootSmall",
