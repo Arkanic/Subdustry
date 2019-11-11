@@ -10,7 +10,7 @@
 	"inaccuracy": 10,
 	"rotatespeed": 12,
 	"ammo": {
-		"thorium": {
+		"blastanium": {
 			"reloadMultiplier": 3,
 			"speed": 13,
 			"damage": 1000,
