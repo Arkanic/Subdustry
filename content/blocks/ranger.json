@@ -10,7 +10,7 @@
 	"innacuracy": 0,
 	"rotatespeed": 2,
 	"ammo": {
-		"thorium": {
+		"blastanium": {
 			"speed": 30.0,
 			"damage": 1000,
 			"bulletWidth": 10,
