@@ -10,7 +10,7 @@
 	"weapon": {
 		"name": "pistol",
 		"length": 1.5,
-		"reload": 500000,
+		"reload": 5000,
 		"alternate": true,
 		"innacuracy": 0,
 		"bullet": {
