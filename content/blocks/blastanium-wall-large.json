@@ -1,0 +1,12 @@
+{
+	"name": "Large Blastanium Wall",
+	"description": "A larger version of the blastanium wall.",
+	"type": "Wall",
+	"health": 4840,
+	"size": 2,
+	"requirements": [
+		{ "item": "blastanium", "amount": 24 }
+	],
+	"category": "defense",
+	"research": "blastanium-wall"
+}
