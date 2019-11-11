@@ -1,5 +1,5 @@
 {
-	"type": "baseUnit",
+	"type": "AbsoluteUnit",
 	"name": "dave",
 	"description": "The Ultimate solution to all your military needs!",
 	"speed": 0.25,
