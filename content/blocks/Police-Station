@@ -1,0 +1,25 @@
+{
+	"name": "Police-Station",
+	"description": "A friendly police station, this is where daves materialize",
+	"type": "UnitFactory",
+	"unitType": "dave",
+	"size": 2,
+	"produceTime": 100,
+	"consumes": {
+		"power": 1,
+		"items": {
+			"items": [
+				{"item": "copper", "amount": 5},
+				{"item": "lead", "amount": 1}
+			]
+		}
+	},
+	"category": "units",
+	"research": "command-center",
+	"requirements": [
+		{ "item": "lead", "amount": 70 },
+		{ "item": "graphite", "amount": 40 },
+		{ "item": "silicon", "amount": 40 },
+		{ "item": "titanium", "amount": 20 }
+	]
+}
