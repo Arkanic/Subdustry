@@ -17,9 +17,9 @@
 	"category": "units",
 	"research": "command-center",
 	"requirements": [
-		{ "item": "lead", "amount": 70 },
+		{ "item": "lead", "amount": 100 },
 		{ "item": "graphite", "amount": 40 },
-		{ "item": "silicon", "amount": 40 },
+		{ "item": "metaglass", "amount": 10 },
 		{ "item": "titanium", "amount": 20 }
 	]
 }
