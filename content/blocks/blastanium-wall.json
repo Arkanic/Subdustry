@@ -1,0 +1,12 @@
+{
+	"name": "Blastanium Wall",
+	"description": "A wall made of blastanium. a stronger wall.",
+	"type": "Wall",
+	"health": 1210,
+	"size": 1,
+	"requirements": [
+		{ "item": "blastanium", "amount": 6 }
+	],
+	"category": "defense",
+	"research": "plastanium-wall"
+}
