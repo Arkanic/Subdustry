@@ -14,7 +14,7 @@
 		"power": 0.7,
 		"items": {
 			"items": [
-				{ "item": "plastanium,", "amount": 1 },
+				{ "item": "plastanium", "amount": 1 },
 				{ "item": "blast-compound", "amount": 1 }
 			]
 		}
