@@ -4,21 +4,21 @@
 	"description": "A powerful double barrel turret capable of removing 'Problems'",
 	"health": 2000,
 	"size": 4,
-	"reload": 10,
+	"reload": 4,
 	"range": 500,
 	"ammoUseEffect": "shellEjectBig",
 	"inaccuracy": 2,
 	"rotatespeed": 6,
 	"ammo": {
 		"blastanium": {
-			"reloadMultiplier": 1,
+			"reloadMultiplier": 1.5,
 			"speed": 10,
 			"damage": 1000,
 			"bulletWidth": 15,
 			"bulletHeight": 20,
 			"shootEffect": "shootBig",
 			"smokeEffect": "shootBigSmoke",
-			"ammoMultiplier": 1
+			"ammoMultiplier": 2
 		}
 	},
 	"requirements": [
