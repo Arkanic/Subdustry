@@ -7,7 +7,7 @@
 	"reload": 30,
 	"range": 500,
 	"ammoUseEffect": "shellEjectBig",
-	"inaccuracy": 2,
+	"inaccuracy": 8,
 	"rotatespeed": 6,
 	"ammo": {
 		"blastanium": {
