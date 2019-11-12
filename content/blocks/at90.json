@@ -21,7 +21,7 @@
 			"ammoMultiplier": 2
 		}
 	},
-	"booster": {
+	"liquid": {
 		"cryofluid": {
 			"reloadMultiplier": 2.5
 		}
