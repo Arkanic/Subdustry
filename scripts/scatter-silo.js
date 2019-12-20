@@ -31,3 +31,10 @@ const silo = extendContent(Block, "scatter-silo", {
         }
     }
 })
+
+
+scatter-silo.update = true
+scatter-silo.localizedName = "Scatter silo"
+scatter-silo.description = "boom"
+scatter-silo.category = Category.turret
+scatter-silo.buildVisibility = BuildVisibility.shown
