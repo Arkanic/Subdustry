@@ -31,8 +31,3 @@ const silo = extendContent(Block, "scatter-silo", {
         }
     }
 })
-silo.update = true
-silo.localizedName = "Scatter silo"
-silo.description = "boom"
-silo.category = Category.turret
-silo.buildVisibility = BuildVisibility.shown
