@@ -1,3 +1,5 @@
+//this is NOT the complete definition for this block! see content/blocks/scatter-silo.hjson for the stats and other properties.
+
 //create a simple shockwave effect
 const siloLaunchEffect = newEffect(20, e => {
     Draw.color(Color.white, Color.lightGray, e.fin()); //color goes from white to light gray
@@ -12,7 +14,7 @@ const silo = extendContent(Block, "scatter-silo", {
         table.addImageButton(Icon.arrowUpSmall, Styles.clearTransi, run(() => {
             //configure the tile to signal that it has been pressed (this sync on client to server)
             tile.configure(0)
-        })).size(50)
+        })).size(50).disabled(boolf(b => !tile.entity.cons.valid()))
     },
 
     //override configure event
@@ -23,7 +25,7 @@ const silo = extendContent(Block, "scatter-silo", {
             Effects.effect(siloLaunchEffect, tile)
 
             //create 10 bullets at this tile's location with random rotation and velocity/lifetime
-            for(var i = 0; i < 10; i++){
+            for(var i = 0; i < 15; i++){
                 Calls.createBullet(Bullets.flakExplosive, tile.getTeam(), tile.drawx(), tile.drawy(), Mathf.random(360), Mathf.random(0.5, 1.0), Mathf.random(0.2, 1.0))
             }
             //triggering consumption makes it use up the items it requires
